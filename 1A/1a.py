@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 """
+Created on Sun Oct 21 18:22:55 2018
+
+@author: PRAVESH
+"""
+
+# -*- coding: utf-8 -*-
+"""
 Created on Sun Oct 21 16:37:02 2018
 
 @author: PRAVESH
@@ -20,5 +27,5 @@ for i in range(a):
     
 f2=open('out.txt', 'w')    
 f2.write(str(1211))  
-f.close()
+f2.close()
     
